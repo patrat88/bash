@@ -1,0 +1,13 @@
+. global/variables
+. functions/logging.sh
+. functions/end.sh
+. functions/welcome.sh
+. functions/menu.sh
+. functions/showkernelname.sh
+. functions/confirm_quit.sh
+. functions/showkernelversion.sh
+. functions/show_uptime.sh
+. functions/show_ls.sh
+. functions/delete_file.sh
+. functions/edit_file.sh
+. functinos/quit_time.sh
